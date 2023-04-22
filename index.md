@@ -134,7 +134,6 @@ As for the second input, it failed the test as we expected to have `{4, 3, 2, 1}
 ```
 for (int i = 0; i < arr.length; i += 1)
 ```
-\
 * The loops iterates through the whole array, when it reaches the middle and continue interating, the faulty output is produced.
 
 * So here how we change the code (fix bug) so the method works as we expect
