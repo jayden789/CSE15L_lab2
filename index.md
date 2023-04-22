@@ -63,9 +63,8 @@ it splits the string querty into list of strings separated by **=** sign, and up
 out on the webpage.
 
 * In this example, we the intial string `str` is an empty string, and we give query ( after the `**?**`) `s=Friday`.
-* The url we give after being processed by `handleRequest(URI url)` method will update the str (which is **Friday**) now and
-* prints out on the webpage 
----
+* The url we give after being processed by `handleRequest(URI url)` method will update the str (which is **Friday**) now and prints out on the webpage.
+ 
 
 ![sat](https://user-images.githubusercontent.com/112384009/233760030-c07bdd22-f21b-45dc-a899-8c2279d77307.jpg)
 
